@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel Lopes</h1>
 <h3 align="center">I'm a python developer</h3>
 
-
-- 🔭 I’m currently working at: Freelancer
-
 - 🌱 I’m currently learning **SQLPostgree**
 
 - 💬 Ask me about **Python, Django and RestAPI**
